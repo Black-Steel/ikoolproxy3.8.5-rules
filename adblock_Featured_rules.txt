@@ -1,0 +1,10 @@
+[Featured rules 2024.4.25]
+! Title: 精选uBlock Rules
+! →→→→域名规则 起始 ←←←← !
+||msg.qy.net^
+||cupid.iqiyi.com/mixer?
++js(set-constant, QiyiPlayerProphetData.a.data, {})
++js(set-constant, Object.prototype.parseXML, noopFunc)
+:not(.qy-index-page) > div[id^="100000"]
++js(set-constant, Object.prototype.blackscreenDuration, 1)
+! →→→→放行白名单 结束←←←← !
