@@ -1,0 +1,2 @@
+!拦截iqiyi的45秒黑屏规则
+||static.iqiyi.com/js/common/mars_v.js*
