@@ -11,4 +11,4 @@ t7z.cupid.iqiyi.com
 ! VIP用户请注释下一条
 vip.iqiyi.com
 !提取brave浏览器过滤爱奇艺45s黑屏规则
-||www.iqiyi.com##.black-screen
+www.iqiyi.com##.black-screen
