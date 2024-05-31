@@ -1,4 +1,4 @@
-!拦截iqiyi的45秒黑屏规则
+!拦截iqiyi的45秒黑屏规则(目测无效)
 ||static.iqiyi.com/js/common/mars_v.js*
 !QY去视频（顽固）广告和暂停广告
 ||mesh.if.iqiyi.com/player/pcw/update/commonAppDownloadData^$xhr
