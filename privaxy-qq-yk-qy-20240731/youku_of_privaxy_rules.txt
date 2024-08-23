@@ -25,6 +25,8 @@ youku.com##[class="bottom-area-wrap-new"],[class="new-footer-wrap"]
 youku.com##[class="root-footer-box"]
 youku.com###cc_minimalism_popup
 youku.com##.youku-advertise-layer
+youku.com##[class="fixed_bar_2rZMG false"]
+youku.com##.kui-message-layer-0
 !
 !
 !爱奇艺广告屏蔽
