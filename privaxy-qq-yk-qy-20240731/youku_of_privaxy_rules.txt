@@ -4,7 +4,7 @@ youku.com##[class="full_wrap"]
 !||vali-g1.cp31.ott.cibntv.net
 ||cibntv.net
 youku.com##[class="videolist_container videolist_ad_container"]
-youku.com##[class="module_mod"]
+youku.com##[class="module_mod"],[class="module_modvip"]
 youku.com##[class="topheader_topheaderwrap topheader_scroll_no_class  "]
 youku.com##[class="topheader_topheaderwrap topheader_scroll_class  "]
 youku.com##[class="topheader_topheaderwrap   "]
