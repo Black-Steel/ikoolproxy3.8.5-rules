@@ -14,8 +14,8 @@ youku.com###checkout_counter_popup
 youku.com###checkout_counter_mask
 youku.com##[class="vip_limit_box status_pop"]
 youtube.com##[class="ytp-skip-ad-button"]
-!youku.com##.checkout_counter_mask
-!youku.com##.checkout_counter_popup
+youku.com##.checkout_counter_mask
+youku.com##.checkout_counter_popup
 youku.com##.playerMouseWheel
 youku.com##[class="fee-wrap-new full-mode fee-node-ceil"]
 youku.com##[class="fixed_bar_2rZMG false"],[class="newyoukufixedbar_fixed_bar"]
