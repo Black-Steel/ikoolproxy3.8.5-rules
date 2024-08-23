@@ -1,15 +1,90 @@
-v.youku.com##[class="kui-layer-0"]
-v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
-||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
-||acs.$domain=~youku.com|~tudou.com|~acs.org
-||ems.youku.com^
-||youku.com/log/
-atm.youku.com
-cad.youku.com
-@@||hobbyking.com^*/gtm.js$script,~third-party
-||cibntv.net/youku/$media
-||mmstat.com
-||vali-g1.cp31.ott.cibntv.net
-v.youku.com##[class="vip_player_payment_minimalism"]
+!优酷广告屏蔽
+youku.com##[class="kui-layer-0"],[class="advertise-layer"]
+youku.com##[class="full_wrap"]
+!||vali-g1.cp31.ott.cibntv.net
+||cibntv.net
+youku.com##[class="videolist_container videolist_ad_container"]
+youku.com##[class="module_mod"]
+youku.com##[class="topheader_topheaderwrap topheader_scroll_no_class  "]
+youku.com##[class="topheader_topheaderwrap topheader_scroll_class  "]
+youku.com##[class="topheader_topheaderwrap   "]
+youku.com##[class="fee-wrap-new full-mode"]
+youku.com###youku-pause-container
+youku.com###checkout_counter_popup
+youku.com###checkout_counter_mask
+youku.com##[class="vip_limit_box status_pop"]
+youtube.com##[class="ytp-skip-ad-button"]
+!youku.com##.checkout_counter_mask
+!youku.com##.checkout_counter_popup
+youku.com##.playerMouseWheel
+youku.com##[class="fee-wrap-new full-mode fee-node-ceil"]
+youku.com##[class="fixed_bar_2rZMG false"],[class="newyoukufixedbar_fixed_bar"]
+youku.com##.youku-dashboard
+youku.com##[class="barrage-container youku-barrage_23TND normal"]
+youku.com##[class="bottom-area-wrap-new"],[class="new-footer-wrap"]
+youku.com##[class="root-footer-box"]
+youku.com###cc_minimalism_popup
+youku.com##.youku-advertise-layer
+!
+!
+!爱奇艺广告屏蔽
+iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
+iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
+t7z.cupid.iqiyi.com
 iqiyi.com##[class="popwin_fullCover__FF8r0 popwin_fullCoverCtrl__HJJeb"]
-youku.com##[class="full_wrap"],[class="promotelogin_infobottom"]
+iqiyi.com##[class="video-cards_cardContainerCommon__qDnuj video-cards_cardContainer__3ztCY video-cards_slideContainer__pdSLp video-cards_fixedContainer__rP2-j"]
+iqiyi.com##[class="black-screen"]
+iqiyi.com###marketing_bk
+iqiyi.com###middle_banner_ad_bk
+iqiyi.com##[class="meta_loginTips__s8H4L"]
+iqiyi.com##[class="iqp-barrage"]
+iqiyi.com###navLeftBox
+iqiyi.com###recommend_bk
+iqiyi.com##[class="video-cards_leftMargin__P91fg"]
+!
+!
+!腾讯视频广告屏蔽
+v.qq.com##[class="card-wrap"]
+v.qq.com##[class="plugin_ctrl_txp_shadow"]
+v.qq.com##[class="txp-post-ad txp_ad __web-inspector-hide-shortcut__"]
+v.qq.com##[class="focus-wrap large-focus"]
+v.qq.com##[class="lazy-for-player"]
+v.qq.com##[class="panel-tip-pay panel-tip-pay-video"]
+v.qq.com##[class="playlist-vip-section__vip"]
+||h5vv6.video.qq.com
+||bkh5vv.video.qq.com
+!
+!
+!Porn类网址广告
+91porn.com##[class="cont6"]
+91porn.com##[class="ad_img"]
+hsex.men##[class="col-xs-12"]
+||aliexpress.com
+@@||hsex.men
+@@||91pinse.com
+!
+!
+!百度系广告
+baidu.com##[class="nd-new-user-dialog"]
+baidu.com##[class="nd-operate-guidance"]
+!
+!
+!杂项广告屏蔽
+csdn.net##[class="passport-login-container"]
+csdn.net##[class="passport-login-tip-container false"]
+csdn.net###remuneration,#asideWriteGuide
+csdn.net##[class="box-shadow mb8"]
+right.com.cn##[class="wp a_t"],[class="focus"]
+pcbeta.com##[class="pb_ptr pb_bdt2"]
+bilibili.com##[class="trial-feed-wrap"]
+bilibili.com##[class="desktop-download-tip"]
+!right.com.cn##[class="wp a_t"]
+right.com.cn##.wp a_t
+@@@@||smxdiy.com
+@@||nnyy.in
+@@||hsex.men/
+!
+!Youtube广告规则
+youtube.com###immersive-translate-caption-window
+!||www.youtube.com    !测试分隔符屏蔽
+!@@||www.youtube.com*watch^v=0bKuKect850
