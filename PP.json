@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "hsex.men"
       ]
     }
